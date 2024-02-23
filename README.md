@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kratichoudhary25
-- 👀 I’m interested in Computer Vision, NLP, and Software Development
-- 🌱 I’m currently learning Elements of AI, and Human Robot Interaction as part of my masters degree
+- 👀 I’m interested in Computer Vision, NLP, and Software Development.
+- 🌱 I’m currently learning Applied Machine Leaning as part of my master's degree.
 - 📫 How to reach me : kratiichoudhary@gmail.com
 
 <!---
