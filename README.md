@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kratichoudhary25
 - 👀 I’m interested in Computer Vision, NLP, and Software Development.
-- 🌱 I’m currently learning Applied Machine Leaning as part of my master's degree.
+- 🌱 I recently started working on my portfolio website https://kratichoudhary.netlify.app/ would update it as I work on more stuff.
 - 📫 How to reach me : kratiichoudhary@gmail.com
 
 <!---
